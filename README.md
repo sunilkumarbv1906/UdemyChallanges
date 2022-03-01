@@ -8,3 +8,4 @@
 [ 7.EggTimer](https://github.com/sunilkumarbv1906/EggTimer.git)
 [ 8.Quizzler](https://github.com/sunilkumarbv1906/Quizzler.git)
 [ 9.Destini](https://github.com/sunilkumarbv1906/Destini.git)
+[ 10.BMIcalculator](https://github.com/sunilkumarbv1906/BMIcalculator.git)
