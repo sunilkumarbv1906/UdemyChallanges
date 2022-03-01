@@ -6,3 +6,4 @@
 [ 5.Calculator](https://github.com/sunilkumarbv1906/Calculator.git)
 [ 6.Xylophone](https://github.com/sunilkumarbv1906/Xylophone.git)
 [ 7.EggTimer](https://github.com/sunilkumarbv1906/EggTimer.git)
+[ 8.Quizzler](https://github.com/sunilkumarbv1906/Quizzler.git)
